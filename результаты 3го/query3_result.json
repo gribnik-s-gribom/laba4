@@ -1,0 +1,238 @@
+[
+    {
+        "genre": "pop",
+        "count": 856
+    },
+    {
+        "genre": "hip hop, pop",
+        "count": 554
+    },
+    {
+        "genre": "hip hop, pop, R&B",
+        "count": 488
+    },
+    {
+        "genre": "pop, Dance/Electronic",
+        "count": 442
+    },
+    {
+        "genre": "pop, R&B",
+        "count": 356
+    },
+    {
+        "genre": "hip hop",
+        "count": 248
+    },
+    {
+        "genre": "hip hop, pop, Dance/Electronic",
+        "count": 156
+    },
+    {
+        "genre": "rock",
+        "count": 116
+    },
+    {
+        "genre": "rock, pop",
+        "count": 86
+    },
+    {
+        "genre": "Dance/Electronic",
+        "count": 82
+    },
+    {
+        "genre": "rock, metal",
+        "count": 76
+    },
+    {
+        "genre": "pop, latin",
+        "count": 56
+    },
+    {
+        "genre": "pop, rock",
+        "count": 52
+    },
+    {
+        "genre": "set()",
+        "count": 44
+    },
+    {
+        "genre": "hip hop, Dance/Electronic",
+        "count": 32
+    },
+    {
+        "genre": "latin",
+        "count": 30
+    },
+    {
+        "genre": "pop, rock, metal",
+        "count": 28
+    },
+    {
+        "genre": "hip hop, pop, latin",
+        "count": 28
+    },
+    {
+        "genre": "pop, rock, Dance/Electronic",
+        "count": 26
+    },
+    {
+        "genre": "R&B",
+        "count": 26
+    },
+    {
+        "genre": "country",
+        "count": 20
+    },
+    {
+        "genre": "metal",
+        "count": 18
+    },
+    {
+        "genre": "hip hop, pop, rock",
+        "count": 18
+    },
+    {
+        "genre": "rock, pop, Dance/Electronic",
+        "count": 16
+    },
+    {
+        "genre": "pop, country",
+        "count": 16
+    },
+    {
+        "genre": "pop, Folk/Acoustic",
+        "count": 16
+    },
+    {
+        "genre": "pop, R&B, Dance/Electronic",
+        "count": 12
+    },
+    {
+        "genre": "rock, pop, metal",
+        "count": 8
+    },
+    {
+        "genre": "hip hop, pop, R&B, latin",
+        "count": 6
+    },
+    {
+        "genre": "hip hop, pop, R&B, Dance/Electronic",
+        "count": 6
+    },
+    {
+        "genre": "hip hop, R&B",
+        "count": 6
+    },
+    {
+        "genre": "rock, blues, latin",
+        "count": 4
+    },
+    {
+        "genre": "rock, blues",
+        "count": 4
+    },
+    {
+        "genre": "pop, rock, Folk/Acoustic",
+        "count": 4
+    },
+    {
+        "genre": "pop, easy listening, jazz",
+        "count": 4
+    },
+    {
+        "genre": "hip hop, rock, pop",
+        "count": 4
+    },
+    {
+        "genre": "World/Traditional, rock, pop",
+        "count": 4
+    },
+    {
+        "genre": "World/Traditional, rock",
+        "count": 4
+    },
+    {
+        "genre": "World/Traditional, pop, Folk/Acoustic",
+        "count": 4
+    },
+    {
+        "genre": "World/Traditional, hip hop",
+        "count": 4
+    },
+    {
+        "genre": "Folk/Acoustic, pop",
+        "count": 4
+    },
+    {
+        "genre": "rock, pop, metal, Dance/Electronic",
+        "count": 2
+    },
+    {
+        "genre": "rock, easy listening",
+        "count": 2
+    },
+    {
+        "genre": "rock, classical",
+        "count": 2
+    },
+    {
+        "genre": "rock, R&B, Folk/Acoustic, pop",
+        "count": 2
+    },
+    {
+        "genre": "rock, Folk/Acoustic, pop",
+        "count": 2
+    },
+    {
+        "genre": "rock, Folk/Acoustic, easy listening",
+        "count": 2
+    },
+    {
+        "genre": "rock, Dance/Electronic",
+        "count": 2
+    },
+    {
+        "genre": "pop, easy listening, Dance/Electronic",
+        "count": 2
+    },
+    {
+        "genre": "pop, R&B, easy listening",
+        "count": 2
+    },
+    {
+        "genre": "hip hop, pop, country",
+        "count": 2
+    },
+    {
+        "genre": "hip hop, latin, Dance/Electronic",
+        "count": 2
+    },
+    {
+        "genre": "hip hop, country",
+        "count": 2
+    },
+    {
+        "genre": "easy listening",
+        "count": 2
+    },
+    {
+        "genre": "country, latin",
+        "count": 2
+    },
+    {
+        "genre": "World/Traditional, pop",
+        "count": 2
+    },
+    {
+        "genre": "World/Traditional, Folk/Acoustic",
+        "count": 2
+    },
+    {
+        "genre": "Folk/Acoustic, rock, pop",
+        "count": 2
+    },
+    {
+        "genre": "Folk/Acoustic, rock",
+        "count": 2
+    }
+]
