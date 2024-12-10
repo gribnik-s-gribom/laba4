@@ -1,0 +1,12 @@
+[
+    {
+        "place": "offline",
+        "total_price": 42091224,
+        "count_books": 15071
+    },
+    {
+        "place": "online",
+        "total_price": 41219647,
+        "count_books": 14903
+    }
+]

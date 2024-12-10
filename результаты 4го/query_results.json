@@ -1,0 +1,810 @@
+{
+    "top_updated": [
+        {
+            "name": "luxurious facial cleanser",
+            "version": 9
+        },
+        {
+            "name": "refined facial cleanser",
+            "version": 8
+        },
+        {
+            "name": "sublime baseboard",
+            "version": 7
+        },
+        {
+            "name": "nice apple",
+            "version": 7
+        },
+        {
+            "name": "attractive siding",
+            "version": 7
+        },
+        {
+            "name": "refined electrical",
+            "version": 6
+        },
+        {
+            "name": "amazing flooring",
+            "version": 6
+        },
+        {
+            "name": "tasteful lotion",
+            "version": 5
+        },
+        {
+            "name": "elegant tape measure",
+            "version": 5
+        },
+        {
+            "name": "magnificent ladder",
+            "version": 4
+        }
+    ],
+    "price_analysis": [
+        {
+            "fromCity": "Аликанте",
+            "count": 1,
+            "total_price": 93.01,
+            "min_price": 93.01,
+            "max_price": 93.01,
+            "avg_price": 93.01
+        },
+        {
+            "fromCity": "Алма-Ата",
+            "count": 1,
+            "total_price": 59.77,
+            "min_price": 59.77,
+            "max_price": 59.77,
+            "avg_price": 59.77
+        },
+        {
+            "fromCity": "Артейхо",
+            "count": 1,
+            "total_price": 68.69,
+            "min_price": 68.69,
+            "max_price": 68.69,
+            "avg_price": 68.69
+        },
+        {
+            "fromCity": "Баку",
+            "count": 1,
+            "total_price": 48.86,
+            "min_price": 48.86,
+            "max_price": 48.86,
+            "avg_price": 48.86
+        },
+        {
+            "fromCity": "Белград",
+            "count": 1,
+            "total_price": 44.52,
+            "min_price": 44.52,
+            "max_price": 44.52,
+            "avg_price": 44.52
+        },
+        {
+            "fromCity": "Валенсия",
+            "count": 2,
+            "total_price": 55.14,
+            "min_price": 23.08,
+            "max_price": 32.06,
+            "avg_price": 27.57
+        },
+        {
+            "fromCity": "Вальядолид",
+            "count": 1,
+            "total_price": 37.4,
+            "min_price": 37.4,
+            "max_price": 37.4,
+            "avg_price": 37.4
+        },
+        {
+            "fromCity": "Варшава",
+            "count": 1,
+            "total_price": 59.92,
+            "min_price": 59.92,
+            "max_price": 59.92,
+            "avg_price": 59.92
+        },
+        {
+            "fromCity": "Виго",
+            "count": 2,
+            "total_price": 79.1,
+            "min_price": 10.08,
+            "max_price": 69.02,
+            "avg_price": 39.55
+        },
+        {
+            "fromCity": "Вильнюс",
+            "count": 3,
+            "total_price": 206.07,
+            "min_price": 43.1,
+            "max_price": 98.88,
+            "avg_price": 68.69
+        },
+        {
+            "fromCity": "Гранада",
+            "count": 1,
+            "total_price": 42.95,
+            "min_price": 42.95,
+            "max_price": 42.95,
+            "avg_price": 42.95
+        },
+        {
+            "fromCity": "Камбадос",
+            "count": 1,
+            "total_price": 40.49,
+            "min_price": 40.49,
+            "max_price": 40.49,
+            "avg_price": 40.49
+        },
+        {
+            "fromCity": "Картахена",
+            "count": 2,
+            "total_price": 168.26999999999998,
+            "min_price": 78.52,
+            "max_price": 89.75,
+            "avg_price": 84.13499999999999
+        },
+        {
+            "fromCity": "Краков",
+            "count": 2,
+            "total_price": 63.07,
+            "min_price": 10.93,
+            "max_price": 52.14,
+            "avg_price": 31.535
+        },
+        {
+            "fromCity": "Лас-Росас",
+            "count": 1,
+            "total_price": 80.51,
+            "min_price": 80.51,
+            "max_price": 80.51,
+            "avg_price": 80.51
+        },
+        {
+            "fromCity": "Мадрид",
+            "count": 2,
+            "total_price": 144.94,
+            "min_price": 55.74,
+            "max_price": 89.2,
+            "avg_price": 72.47
+        },
+        {
+            "fromCity": "Малага",
+            "count": 1,
+            "total_price": 64.37,
+            "min_price": 64.37,
+            "max_price": 64.37,
+            "avg_price": 64.37
+        },
+        {
+            "fromCity": "Мартоса",
+            "count": 1,
+            "total_price": 89.46,
+            "min_price": 89.46,
+            "max_price": 89.46,
+            "avg_price": 89.46
+        },
+        {
+            "fromCity": "Мерида",
+            "count": 1,
+            "total_price": 45.15,
+            "min_price": 45.15,
+            "max_price": 45.15,
+            "avg_price": 45.15
+        },
+        {
+            "fromCity": "Минск",
+            "count": 1,
+            "total_price": 47.76,
+            "min_price": 47.76,
+            "max_price": 47.76,
+            "avg_price": 47.76
+        },
+        {
+            "fromCity": "Навалькарнеро",
+            "count": 2,
+            "total_price": 171.61,
+            "min_price": 81.32,
+            "max_price": 90.29,
+            "avg_price": 85.805
+        },
+        {
+            "fromCity": "Осера",
+            "count": 1,
+            "total_price": 156.97500000000002,
+            "min_price": 156.97500000000002,
+            "max_price": 156.97500000000002,
+            "avg_price": 156.97500000000002
+        },
+        {
+            "fromCity": "Пласенсия",
+            "count": 1,
+            "total_price": 47.57,
+            "min_price": 47.57,
+            "max_price": 47.57,
+            "avg_price": 47.57
+        },
+        {
+            "fromCity": "Сан-Себастьян",
+            "count": 1,
+            "total_price": 25.7,
+            "min_price": 25.7,
+            "max_price": 25.7,
+            "avg_price": 25.7
+        },
+        {
+            "fromCity": "Санкт-Петербург",
+            "count": 1,
+            "total_price": 54.76,
+            "min_price": 54.76,
+            "max_price": 54.76,
+            "avg_price": 54.76
+        },
+        {
+            "fromCity": "Сантьяго-де-Компостела",
+            "count": 1,
+            "total_price": 29.98,
+            "min_price": 29.98,
+            "max_price": 29.98,
+            "avg_price": 29.98
+        },
+        {
+            "fromCity": "Санхенхо",
+            "count": 1,
+            "total_price": 43.38,
+            "min_price": 43.38,
+            "max_price": 43.38,
+            "avg_price": 43.38
+        },
+        {
+            "fromCity": "Семана",
+            "count": 1,
+            "total_price": 36.46,
+            "min_price": 36.46,
+            "max_price": 36.46,
+            "avg_price": 36.46
+        },
+        {
+            "fromCity": "Скопье",
+            "count": 2,
+            "total_price": 191.65,
+            "min_price": 87.79,
+            "max_price": 103.86,
+            "avg_price": 95.825
+        },
+        {
+            "fromCity": "Сория",
+            "count": 1,
+            "total_price": 15.66,
+            "min_price": 15.66,
+            "max_price": 15.66,
+            "avg_price": 15.66
+        },
+        {
+            "fromCity": "Тарраса",
+            "count": 1,
+            "total_price": 100.45,
+            "min_price": 100.45,
+            "max_price": 100.45,
+            "avg_price": 100.45
+        },
+        {
+            "fromCity": "Ташкент",
+            "count": 2,
+            "total_price": 48.1,
+            "min_price": 15.56,
+            "max_price": 32.54,
+            "avg_price": 24.05
+        },
+        {
+            "fromCity": "Тудела",
+            "count": 1,
+            "total_price": 79.55,
+            "min_price": 79.55,
+            "max_price": 79.55,
+            "avg_price": 79.55
+        },
+        {
+            "fromCity": "Хихон",
+            "count": 1,
+            "total_price": 77.31,
+            "min_price": 77.31,
+            "max_price": 77.31,
+            "avg_price": 77.31
+        },
+        {
+            "fromCity": "Эль-Пуэрто-де-Санта-Мария",
+            "count": 1,
+            "total_price": 98.86,
+            "min_price": 98.86,
+            "max_price": 98.86,
+            "avg_price": 98.86
+        },
+        {
+            "fromCity": "Эльче",
+            "count": 1,
+            "total_price": 56.73,
+            "min_price": 56.73,
+            "max_price": 56.73,
+            "avg_price": 56.73
+        }
+    ],
+    "quantity_analysis": [
+        {
+            "fromCity": "Аликанте",
+            "count": 1,
+            "total_quantity": 775,
+            "min_quantity": 775,
+            "max_quantity": 775,
+            "avg_quantity": 775.0
+        },
+        {
+            "fromCity": "Алма-Ата",
+            "count": 1,
+            "total_quantity": 811,
+            "min_quantity": 811,
+            "max_quantity": 811,
+            "avg_quantity": 811.0
+        },
+        {
+            "fromCity": "Артейхо",
+            "count": 1,
+            "total_quantity": 792,
+            "min_quantity": 792,
+            "max_quantity": 792,
+            "avg_quantity": 792.0
+        },
+        {
+            "fromCity": "Баку",
+            "count": 1,
+            "total_quantity": 1039,
+            "min_quantity": 1039,
+            "max_quantity": 1039,
+            "avg_quantity": 1039.0
+        },
+        {
+            "fromCity": "Белград",
+            "count": 1,
+            "total_quantity": 650,
+            "min_quantity": 650,
+            "max_quantity": 650,
+            "avg_quantity": 650.0
+        },
+        {
+            "fromCity": "Валенсия",
+            "count": 2,
+            "total_quantity": 1622,
+            "min_quantity": 611,
+            "max_quantity": 1011,
+            "avg_quantity": 811.0
+        },
+        {
+            "fromCity": "Вальядолид",
+            "count": 1,
+            "total_quantity": 599,
+            "min_quantity": 599,
+            "max_quantity": 599,
+            "avg_quantity": 599.0
+        },
+        {
+            "fromCity": "Варшава",
+            "count": 1,
+            "total_quantity": 807,
+            "min_quantity": 807,
+            "max_quantity": 807,
+            "avg_quantity": 807.0
+        },
+        {
+            "fromCity": "Виго",
+            "count": 2,
+            "total_quantity": 1629,
+            "min_quantity": 545,
+            "max_quantity": 1084,
+            "avg_quantity": 814.5
+        },
+        {
+            "fromCity": "Вильнюс",
+            "count": 3,
+            "total_quantity": 1961,
+            "min_quantity": 521,
+            "max_quantity": 899,
+            "avg_quantity": 653.6666666666666
+        },
+        {
+            "fromCity": "Гранада",
+            "count": 1,
+            "total_quantity": 869,
+            "min_quantity": 869,
+            "max_quantity": 869,
+            "avg_quantity": 869.0
+        },
+        {
+            "fromCity": "Камбадос",
+            "count": 1,
+            "total_quantity": 1002,
+            "min_quantity": 1002,
+            "max_quantity": 1002,
+            "avg_quantity": 1002.0
+        },
+        {
+            "fromCity": "Картахена",
+            "count": 2,
+            "total_quantity": 1607,
+            "min_quantity": 655,
+            "max_quantity": 952,
+            "avg_quantity": 803.5
+        },
+        {
+            "fromCity": "Краков",
+            "count": 2,
+            "total_quantity": 1217,
+            "min_quantity": 605,
+            "max_quantity": 612,
+            "avg_quantity": 608.5
+        },
+        {
+            "fromCity": "Лас-Росас",
+            "count": 1,
+            "total_quantity": 795,
+            "min_quantity": 795,
+            "max_quantity": 795,
+            "avg_quantity": 795.0
+        },
+        {
+            "fromCity": "Мадрид",
+            "count": 2,
+            "total_quantity": 1609,
+            "min_quantity": 505,
+            "max_quantity": 1104,
+            "avg_quantity": 804.5
+        },
+        {
+            "fromCity": "Малага",
+            "count": 1,
+            "total_quantity": 972,
+            "min_quantity": 972,
+            "max_quantity": 972,
+            "avg_quantity": 972.0
+        },
+        {
+            "fromCity": "Мартоса",
+            "count": 1,
+            "total_quantity": 1122,
+            "min_quantity": 1122,
+            "max_quantity": 1122,
+            "avg_quantity": 1122.0
+        },
+        {
+            "fromCity": "Мерида",
+            "count": 1,
+            "total_quantity": 601,
+            "min_quantity": 601,
+            "max_quantity": 601,
+            "avg_quantity": 601.0
+        },
+        {
+            "fromCity": "Минск",
+            "count": 1,
+            "total_quantity": 620,
+            "min_quantity": 620,
+            "max_quantity": 620,
+            "avg_quantity": 620.0
+        },
+        {
+            "fromCity": "Навалькарнеро",
+            "count": 2,
+            "total_quantity": 1541,
+            "min_quantity": 578,
+            "max_quantity": 963,
+            "avg_quantity": 770.5
+        },
+        {
+            "fromCity": "Осера",
+            "count": 1,
+            "total_quantity": 723,
+            "min_quantity": 723,
+            "max_quantity": 723,
+            "avg_quantity": 723.0
+        },
+        {
+            "fromCity": "Пласенсия",
+            "count": 1,
+            "total_quantity": 549,
+            "min_quantity": 549,
+            "max_quantity": 549,
+            "avg_quantity": 549.0
+        },
+        {
+            "fromCity": "Сан-Себастьян",
+            "count": 1,
+            "total_quantity": 777,
+            "min_quantity": 777,
+            "max_quantity": 777,
+            "avg_quantity": 777.0
+        },
+        {
+            "fromCity": "Санкт-Петербург",
+            "count": 1,
+            "total_quantity": 924,
+            "min_quantity": 924,
+            "max_quantity": 924,
+            "avg_quantity": 924.0
+        },
+        {
+            "fromCity": "Сантьяго-де-Компостела",
+            "count": 1,
+            "total_quantity": 1000,
+            "min_quantity": 1000,
+            "max_quantity": 1000,
+            "avg_quantity": 1000.0
+        },
+        {
+            "fromCity": "Санхенхо",
+            "count": 1,
+            "total_quantity": 882,
+            "min_quantity": 882,
+            "max_quantity": 882,
+            "avg_quantity": 882.0
+        },
+        {
+            "fromCity": "Семана",
+            "count": 1,
+            "total_quantity": 618,
+            "min_quantity": 618,
+            "max_quantity": 618,
+            "avg_quantity": 618.0
+        },
+        {
+            "fromCity": "Скопье",
+            "count": 2,
+            "total_quantity": 1382,
+            "min_quantity": 674,
+            "max_quantity": 708,
+            "avg_quantity": 691.0
+        },
+        {
+            "fromCity": "Сория",
+            "count": 1,
+            "total_quantity": 723,
+            "min_quantity": 723,
+            "max_quantity": 723,
+            "avg_quantity": 723.0
+        },
+        {
+            "fromCity": "Тарраса",
+            "count": 1,
+            "total_quantity": 635,
+            "min_quantity": 635,
+            "max_quantity": 635,
+            "avg_quantity": 635.0
+        },
+        {
+            "fromCity": "Ташкент",
+            "count": 2,
+            "total_quantity": 1587,
+            "min_quantity": 661,
+            "max_quantity": 926,
+            "avg_quantity": 793.5
+        },
+        {
+            "fromCity": "Тудела",
+            "count": 1,
+            "total_quantity": 627,
+            "min_quantity": 627,
+            "max_quantity": 627,
+            "avg_quantity": 627.0
+        },
+        {
+            "fromCity": "Хихон",
+            "count": 1,
+            "total_quantity": 1021,
+            "min_quantity": 1021,
+            "max_quantity": 1021,
+            "avg_quantity": 1021.0
+        },
+        {
+            "fromCity": "Эль-Пуэрто-де-Санта-Мария",
+            "count": 1,
+            "total_quantity": 699,
+            "min_quantity": 699,
+            "max_quantity": 699,
+            "avg_quantity": 699.0
+        },
+        {
+            "fromCity": "Эльче",
+            "count": 1,
+            "total_quantity": 760,
+            "min_quantity": 760,
+            "max_quantity": 760,
+            "avg_quantity": 760.0
+        }
+    ],
+    "custom_query": [
+        {
+            "name": "trendy nail file",
+            "quantity": 1122
+        },
+        {
+            "name": "magnificent ladder",
+            "quantity": 1104
+        },
+        {
+            "name": "attractive siding",
+            "quantity": 1084
+        },
+        {
+            "name": "trendy screws",
+            "quantity": 1039
+        },
+        {
+            "name": "delightful body wash",
+            "quantity": 1021
+        },
+        {
+            "name": "sublime perfume",
+            "quantity": 1011
+        },
+        {
+            "name": "glamorous electrical",
+            "quantity": 1002
+        },
+        {
+            "name": "luxurious lotion",
+            "quantity": 1000
+        },
+        {
+            "name": "amazing flooring",
+            "quantity": 972
+        },
+        {
+            "name": "refined facial cleanser",
+            "quantity": 963
+        },
+        {
+            "name": "exquisite hammer",
+            "quantity": 952
+        },
+        {
+            "name": "luxurious manicure set",
+            "quantity": 926
+        },
+        {
+            "name": "gorgeous screws",
+            "quantity": 924
+        },
+        {
+            "name": "pretty body wash",
+            "quantity": 899
+        },
+        {
+            "name": "pretty nails",
+            "quantity": 882
+        },
+        {
+            "name": "trendy hammer",
+            "quantity": 869
+        },
+        {
+            "name": "amazing hammer",
+            "quantity": 811
+        },
+        {
+            "name": "nice apple",
+            "quantity": 807
+        },
+        {
+            "name": "elegant cranberry",
+            "quantity": 795
+        },
+        {
+            "name": "tasteful lotion",
+            "quantity": 792
+        },
+        {
+            "name": "beautiful exfoliator",
+            "quantity": 777
+        },
+        {
+            "name": "magnificent bubble bath",
+            "quantity": 775
+        },
+        {
+            "name": "amazing apricot",
+            "quantity": 760
+        },
+        {
+            "name": "sublime electrical",
+            "quantity": 723
+        },
+        {
+            "name": "elegant tape measure",
+            "quantity": 723
+        },
+        {
+            "name": "glamorous bubble bath",
+            "quantity": 708
+        },
+        {
+            "name": "nice manicure set",
+            "quantity": 699
+        },
+        {
+            "name": "refined baseboard",
+            "quantity": 674
+        },
+        {
+            "name": "sublime baseboard",
+            "quantity": 661
+        },
+        {
+            "name": "luxurious melon",
+            "quantity": 655
+        },
+        {
+            "name": "marvelous lip balm",
+            "quantity": 650
+        },
+        {
+            "name": "luxurious facial cleanser",
+            "quantity": 635
+        },
+        {
+            "name": "refined electrical",
+            "quantity": 627
+        },
+        {
+            "name": "sublime strawberry",
+            "quantity": 620
+        },
+        {
+            "name": "stylish wallpaper",
+            "quantity": 618
+        },
+        {
+            "name": "trendy raspberry",
+            "quantity": 612
+        },
+        {
+            "name": "superb lotion",
+            "quantity": 611
+        },
+        {
+            "name": "delightful pedicure set",
+            "quantity": 605
+        },
+        {
+            "name": "glamorous perfume",
+            "quantity": 601
+        },
+        {
+            "name": "sublime cherry",
+            "quantity": 599
+        },
+        {
+            "name": "delightful baseboard",
+            "quantity": 578
+        },
+        {
+            "name": "beautiful cranberry",
+            "quantity": 549
+        },
+        {
+            "name": "gorgeous perfume",
+            "quantity": 545
+        },
+        {
+            "name": "attractive sunscreen",
+            "quantity": 541
+        },
+        {
+            "name": "nice plum",
+            "quantity": 521
+        },
+        {
+            "name": "gorgeous blueberry",
+            "quantity": 505
+        }
+    ]
+}
